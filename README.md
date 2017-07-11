@@ -11,6 +11,6 @@ I built a python program to perform sentiment analysis on individual tweets. The
 
 ##Usage
 
-Once you the dependencies are installed installed, run the script in terminal via
+Once the dependencies are installed, run the script in terminal via
 
 `python demo.py`
