@@ -1,5 +1,5 @@
 # twitter_sentiment_analysis
-Intro to Data Science #2 - Program to Perform Twitter Sentiment Analysis
+Program to Perform Twitter Sentiment Analysis
 
 ##Overview
 
